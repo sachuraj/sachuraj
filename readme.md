@@ -2,7 +2,7 @@
 
   ## **About me**
 
-<picture> <img align="right" src="https://avatars.githubusercontent.com/u/141876262?v=4" width = 250px></picture>
+<picture> <img align="right" src="https://img.freepik.com/free-psd/digital-device-mockup_53876-91374.jpg?w=900&t=st=1696322271~exp=1696322871~hmac=94c0bf2425892c53d91cde0c9cb0dc592e8a0aeaf5f7381c1952519f2205ef7a" width = 250px></picture>
 
 <br>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sachuraj/">
+<a href="https://github.com/sachuraj">
   <img src="https://github-readme-stats.vercel.app/api?username=sachuraj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachuraj&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"  alt="0xabdulkhalid"/>
 
